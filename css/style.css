@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(211, 69, 69);
+    width: 100%;
+    height: 100px;
+}
+header a{
+    text-decoration: none;
+    margin-right: 10px;
+    background-color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+#left{
+    background-color: rgb(58, 138, 141);
+    float: left;
+    width: 20%;
+    height: 400px;
+}
+#content{
+    background-color: plum;
+    float: left;
+    width: 60%;
+    height: 400px;     
+}
+#right{
+    background-color: bisque;
+    float: right;
+    width: 20%;
+    height: 400px;
+}
+footer{
+    background-color: rgb(106, 180, 31);
+    clear: both;
+    height: 300px;
+}
